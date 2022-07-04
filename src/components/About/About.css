@@ -1,0 +1,12 @@
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #f8edeb;
+}
+
+.info{
+    width: 30%;
+}
+.row + .row{
+    margin-right: 10em;
+}

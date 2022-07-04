@@ -1,0 +1,18 @@
+.banner{
+    text-align: center;
+    overflow: hidden;
+}
+.image {
+    padding: 1em;
+}
+
+img{
+    width: 70%;
+    object-fit: cover;
+}
+
+.contents{
+    margin: 2em auto;
+    padding-bottom: 1em;
+    width: 70%;
+}

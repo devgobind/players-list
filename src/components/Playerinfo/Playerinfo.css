@@ -1,0 +1,9 @@
+.info{
+    border: 2px solid black;
+    margin: 1em;
+    text-align: center;
+}
+
+h3{
+    object-fit: contain;
+}
